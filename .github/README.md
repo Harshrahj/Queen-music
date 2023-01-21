@@ -6,16 +6,16 @@
 
 <p align="center">
     <a href="https://app.codacy.com/manual/Dangerop/Queen-music/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/Dangerop/Queen-music"> <img src="https://img.shields.io/github/repo-size/Dangerop/Queen-musicBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Dangerop/Queen-music/commits/prince"> <img src="https://img.shields.io/github/last-commit/Dangerop/Queen-music?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Dangerop/Queen-music/issues"> <img src="https://img.shields.io/github/issues/Dangerop/Queen-music?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Dangerop/Queen-music/network/members"> <img src="https://img.shields.io/github/forks/Dangerop/Queen-music?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/Harshrahj/kingxmusic"> <img src="https://img.shields.io/github/repo-size/Dangerop/Queen-musicBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Harshrahj/kingxmusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/Dangerop/Queen-music?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Harshrahj/kingxmusic/issues"> <img src="https://img.shields.io/github/issues/Dangerop/Queen-music?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Harshrahj/kingxmusic/network/members"> <img src="https://img.shields.io/github/forks/Dangerop/Queen-music?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 > ⭐️ Thanks to everyone for using Queen, That is the greatest pleasure we have !
 
-### Danger Choudhary– History
+### harsh  op– History
 
 <a href="https://youtube.com/channel/UC_Yi9MsbqgianRifG1oSEtQ"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
 
