@@ -53,7 +53,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text=f"☀ Qᴜᴇᴇɴ ꜰᴏᴜɴᴅᴇʀ ʟᴏᴠᴇ☀",
-                url=f"https://t.me/ABOUT_CHOUDHARY",
+                url=f"https://t.me/alone_support",
             )
         ],
     ]
