@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2021-2022 by Alexa_Help@Github, < https://github.com/Harshrahj/Queenxmusic >.
+# Copyright (C) 2021-2022 by alone_support@Github, < https://github.com/Harshrahj/Queenxmusic >.
 # A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
 
 # Kanged By © @MR_HARSH_OP
